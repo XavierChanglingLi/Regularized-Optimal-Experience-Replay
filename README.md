@@ -1,6 +1,6 @@
 # Regularized Optimal Experience Replay (ROER)
 
-Official code implementation for **[ROER: Regularized Optimal Experience Replay]()** by [Changling Li](https://scholar.google.com/citations?user=jgJvfvMAAAAJ&hl=en), [Zhang-Wei Hong](https://williamd4112.github.io/), [Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/), [Divyansh Garg](https://divyanshgarg.com/) and [Joni Pajarinen](https://scholar.google.com/citations?user=-2fJStwAAAAJ&hl=en).
+Official code implementation for **[ROER: Regularized Optimal Experience Replay](https://arxiv.org/abs/2407.03995)** by [Changling Li](https://scholar.google.com/citations?user=jgJvfvMAAAAJ&hl=en), [Zhang-Wei Hong](https://williamd4112.github.io/), [Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/), [Divyansh Garg](https://divyanshgarg.com/) and [Joni Pajarinen](https://scholar.google.com/citations?user=-2fJStwAAAAJ&hl=en).
 
 This repo contains the code for our proposed regularized optimal experience replay with KL-divergence which corresponds to the objective of [extreme Q-learning](https://arxiv.org/abs/2301.02328) and other baselines for comparison including uniform experience replay, [prioritized experience replay](https://arxiv.org/abs/2007.06049) and [large batch experience replay](https://arxiv.org/abs/2110.01528). The code implementation is adapted from [JAXRL](https://github.com/ikostrikov/jaxrl?tab=readme-ov-file).
 
